@@ -2,12 +2,20 @@ h1{
 	color: red;
 	font-family: Arial,sans-serif,Helvetica;
 }
+.learn{
+	background: url(../site/learning.jpg);
+}
 
 footer{
 	position: fixed;
-	
+	height:300px;
 	margin-top: 600px;
 
+}
+.block{
+	height:30px;	
+	color:white;
+	background:linear-gradient(black,#0000ff); 
 }
 p{
 	margin-left: 500px;
