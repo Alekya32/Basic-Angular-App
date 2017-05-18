@@ -1,0 +1,17 @@
+h1{
+	color: red;
+	font-family: Arial,sans-serif,Helvetica;
+}
+
+footer{
+	position: fixed;
+	
+	margin-top: 550px;
+
+}
+p{
+	margin-left: 500px;
+}
+nav{
+	background:url(./Bg1.jpg);
+}
